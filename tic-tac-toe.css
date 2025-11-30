@@ -139,3 +139,24 @@ a.credits {
 	height: 20px;
 	margin-left: 2px;
 }
+
+div.footer {
+	position: fixed;
+
+	bottom: 0;
+
+	width: 100%;
+
+	padding-top: 0.5vmax;
+	padding-bottom: 0.5vmax;
+}
+
+p.footer-text {
+	font-size: 0.9vmax;
+
+	margin-bottom: 0;
+	margin-top: 0;
+
+	font-family: monospace;
+	margin-left: 2.5%
+}
