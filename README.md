@@ -7,6 +7,13 @@ This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by
 
 The tic tac toe algorithm isn't perfect, but it can at least draw every single game (on hard difficulty).
 
+Links
+-----
+
+* [Website](https://sh-dima.github.io/tic-tac-toe/)
+* [GitLab](https://gitlab.com/shdima/tic-tac-toe)
+* [GitHub](https://github.com/sh-dima/tic-tac-toe)
+
 License
 -------
 
